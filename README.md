@@ -39,7 +39,7 @@ very eager to learn new things 😉.
 
 </td><td valign="top" width="50%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HKozubek&hide_border=true&exclude_repo=html-css-course" align="right" style="width: 100%" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HKozubek&hide_border=true&exclude_repo=https://github.com/HKozubek/html-css-course&theme=yeblu" align="right" style="width: 100%" /></div>
 
 </td></tr></table>  
 
