@@ -40,16 +40,9 @@ very eager to learn new things 😉.
 <br/> 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-  
- <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HKozubek&hide_border=true&exclude_repo=HKozubek/html-css-course&theme=yeblu" align="right" style="width: 100%" /></div>
-
-
-</td><td valign="top" width="50%">
-
+<br/> 
 <img src="https://github-readme-stats.vercel.app/api?username=HKozubek&show_icons=true&count_private=true&hide_border=true&theme=yeblu&hide=contribs" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<br/> 
 
 
 
