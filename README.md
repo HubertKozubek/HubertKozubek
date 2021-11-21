@@ -11,7 +11,38 @@ very eager to learn new things 😉.
 - 📫 How to reach me: hkozubek00@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HKozubek&count_private=true&show_icons=true&theme=dark&hide=contribs)
+## Languages and Tools  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />  
+</div>  
+
+<br/>  
+
+
+## Github Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HKozubek&count_private=true&show_icons=true&theme=yeblu&hide=contribs)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HKozubek)](https://github.com/anuraghazra/github-readme-stats)
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HKozubek&show_icons=true&count_private=true&hide_border=true&theme=yeblu&hide=contribs" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HKozubek&hide_border=true&exclude_repo=html-css-course" align="right" style="width: 100%" /></div>
+
+</td></tr></table>  
+
 
 
 <!--
