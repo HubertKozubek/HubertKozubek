@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github.com/HKozubek/HKozubek/blob/main/Business%20Cover.png" alt="banner that says Hubert Kozubek - Automatic Control and Robotic & Data Science student">
+
 <!--
 **HKozubek/HKozubek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
