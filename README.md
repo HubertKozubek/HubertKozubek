@@ -10,7 +10,7 @@ very eager to learn new things 😉.
 
 - 🔭 I’m currently working on my science degrees 😄
 - 🌱 I’m currently learning web design, to enhance the appearance of my projects
-- ⚡ Fun fact: I'm also intrested in pshychology and illusion 🎩♦️♠🔮✨
+- ⚡ Fun fact: I'm also intrested in psychology and illusion 🎩🃏🔮✨
 
 
 ## Languages and Tools  
