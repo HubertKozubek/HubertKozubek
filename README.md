@@ -11,7 +11,7 @@ very eager to learn new things 😉.
 - 📫 How to reach me: hkozubek00@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HKozubek&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HKozubek&count_private=true&show_icons=true&theme=dark&hide=contribs)
 
 
 <!--
