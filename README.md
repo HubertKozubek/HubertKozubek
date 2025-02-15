@@ -4,7 +4,7 @@
 
 ### Hi, I'm Hubert 👋
 
-I'm a 23 years old student who is passionate about task automation, machine learning and new technologies. I am
+I'm a 25 years old student who is passionate about task automation, machine learning and new technologies. I am
 very eager to learn new things 😉.
 
 
@@ -15,11 +15,8 @@ very eager to learn new things 😉.
 
 ## Languages and Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="75" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="75" />  
 </div>  
@@ -28,7 +25,7 @@ very eager to learn new things 😉.
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/HKozubek" target="_blank">
+<a href="https://github.com/HubertKozubek" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/hubert.kozubek.5" target="_blank">
@@ -40,7 +37,7 @@ very eager to learn new things 😉.
 
 ## Github Stats  
 <br/> 
-<img src="https://github-readme-stats.vercel.app/api?username=HKozubek&show_icons=true&count_private=true&hide_border=true&theme=yeblu&hide=issues" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=HubertKozubek&show_icons=true&count_private=true&hide_border=true&theme=yeblu&hide=issues" align="left" style="width: 100%" />
 <br/> 
 
 
